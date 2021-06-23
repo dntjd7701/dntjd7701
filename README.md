@@ -37,5 +37,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdntjd7701%2Fhit-counter&count_bg=%2366ED91&title_bg=%23EDF16F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdntjd7701%2Fhit-counter&count_bg=%23BDEF97&title_bg=%23F6FD96&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 </p>
