@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sung's&fontSize=90)
 
-<p align="center">   
+<div align="right">   
   
   
   
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
   
   
-</p>
+</div>
 
 
 <p align="center">🇰🇷</p>
