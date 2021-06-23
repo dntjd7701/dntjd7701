@@ -34,7 +34,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
-<br>
+
+
+
 <h3 align="center"> 🤝 </h3>
 <p align="center">
   <a href="https://www.instagram.com/rkddntjd_/"><img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/rkddntjd_/"/></a>&nbsp
