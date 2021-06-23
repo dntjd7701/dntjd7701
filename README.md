@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center"> 🤝 </h3>
 <p align="center">
-  <a href="https://www.instagram.com/rkddntjd_/"><img src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/rkddntjd_/"/></a>&nbsp
+  <a href="https://www.instagram.com/rkddntjd_/"><img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/rkddntjd_/"/></a>&nbsp
   <a href="mailto:dntjd7701@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dntjd7701@naver.com"/></a>
 </p>
 <br>
