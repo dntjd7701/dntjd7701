@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  </div>
 
 
-<p align="center">🇰🇷</p>
+<p align="center">🇰🇷 🇦🇺 🇯🇵 🇻🇳 🇹🇭 🇨🇳 🇲🇾</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
