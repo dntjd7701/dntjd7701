@@ -59,12 +59,3 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/dntjd7701">
-    <img src="https://github-readme-stats.vercel.app/api?username=dntjd7701&count_private=true&theme=radical&show_icons=true" height="180" />
-  </a>
-  <a href="https://github.com/dntjd7701">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dntjd7701&langs_count=8&&theme=radical" height="180" />
-  </a>
- </div>
-
