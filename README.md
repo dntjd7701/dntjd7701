@@ -49,18 +49,19 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<h3 align="center">💼 Career 💼</h3>
+<h2 align="center">💼 Career 💼</h3>
 
 <div align="center">
   <p><b>Douzone Bizon</b> (2021.11 ~ Present)</p>
 </div>
 
 <div align="center">
+  
   <h4>ERP 프로젝트 (2021.11 ~ 2024.05)</h4>
   <p><b>담당 파트:</b> ERP 시스템 전반</p>
   <p><b>주요 업무:</b></p>
   <ul>
-    <li>회계/매출 관리 화면 개발 및 유지보수</li>
+    <li>회계/물류 관리 화면 개발 및 유지보수</li>
     <li>사용자 요구사항 기반 기능 개선 및 버그 수정</li>
     <li>데이터베이스 설계 및 쿼리 최적화</li>
   </ul>
