@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <div align="center">   
   
-    ### ERP 프로젝트 (2021.11 ~ 2024.05)
+### ERP 프로젝트 (2021.11 ~ 2024.05)
 - 담당 파트: ERP 시스템 전반
 - 주요 업무:
   - 회계/매출 관리 화면 개발 및 유지보수
@@ -73,12 +73,7 @@ Here are some ideas to get you started:
   - 외부 시스템 연동 API 설계 및 구현
   - Kafka 도입 및 이벤트 기반 아키텍처 구축
   - 화면/백엔드 통합 테스트 및 성능 최적화
-- 사용 기술: Java, Spring Boot, MySQL, React, Kafka, REST API
+- 사용 기술: Java, Spring Boot, MariaDB, React, Kafka, REST API
 
-
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdntjd7701%2Fhit-counter&count_bg=%23BDEF97&title_bg=%23F6FD96&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
-  
-  
-  
 </div>
 
