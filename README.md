@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <h2 align="center">💼 Career 💼</h3>
 
 <div align="center">
-  <p><b>Douzone Bizon</b> (2021.11 ~ Present)</p>
+  2021.11 ~ Present
 </div>
 
 <div align="left">
