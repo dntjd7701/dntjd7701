@@ -77,5 +77,5 @@ Here are some ideas to get you started:
     <li>Kafka 도입 및 이벤트 기반 아키텍처 구축</li>
     <li>화면/백엔드 통합 테스트 및 성능 최적화</li>
   </ul>
-  <p><b>사용 기술:</b> Java, Spring Boot, MySQL, React, Kafka, REST API</p>
+  <p><b>사용 기술:</b> Java, Spring Boot, MariaDB, React, Kafka, REST API</p>
 </div>
