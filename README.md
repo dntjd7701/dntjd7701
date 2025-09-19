@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <p><b>Douzone Bizon</b> (2021.11 ~ Present)</p>
 </div>
 
-<div>
+<div align="center">
   <h4>ERP 프로젝트 (2021.11 ~ 2024.05)</h4>
   <p><b>담당 파트:</b> ERP 시스템 전반</p>
   <p><b>주요 업무:</b></p>
