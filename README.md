@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<h2 align="center">💼 Career 💼</h3>
+<h3 align="left">💼 Career 💼</h3>
 
-<div align="center">
+<div align="left">
   2021.11 ~ Present
 </div>
 
