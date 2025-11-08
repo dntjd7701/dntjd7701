@@ -55,27 +55,4 @@ Here are some ideas to get you started:
   2021.11 ~ Present
 </div>
 
-<div align="left">
-  <h4>ERP 프로젝트 (2021.11 ~ 2024.05)</h4>
-  <p><b>담당 파트:</b> ERP 시스템 전반</p>
-  <p><b>주요 업무:</b></p>
-  <ul>
-    <li>회계/물류 관리 화면 개발 및 유지보수</li>
-    <li>사용자 요구사항 기반 기능 개선 및 버그 수정</li>
-    <li>데이터베이스 설계 및 쿼리 최적화</li>
-  </ul>
-  <p><b>사용 기술:</b> Java, Spring Boot, MySQL, JavaScript, React</p>
-</div>
 
-<div>
-  <h4>EMR 프로젝트 (2024.05 ~ Present)</h4>
-  <p><b>담당 파트:</b> 병원 공통 / 진료 파트</p>
-  <p><b>주요 업무:</b></p>
-  <ul>
-    <li>병원 공통 기능 및 진료 화면 풀스택 개발</li>
-    <li>외부 시스템 연동 API 설계 및 구현</li>
-    <li>Kafka 도입 및 이벤트 기반 아키텍처 구축</li>
-    <li>화면/백엔드 통합 테스트 및 성능 최적화</li>
-  </ul>
-  <p><b>사용 기술:</b> Java, Spring Boot, MariaDB, React, Kafka, REST API</p>
-</div>
